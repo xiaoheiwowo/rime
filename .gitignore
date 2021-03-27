@@ -1,0 +1,8 @@
+build/
+sync/
+trash/
+luna_pinyin.userdb/
+user.yaml
+installation.yaml
+.DS_Store
+luna_pinyin.sogou.dict.yaml

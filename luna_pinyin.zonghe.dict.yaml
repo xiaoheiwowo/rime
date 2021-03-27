@@ -1,0 +1,62 @@
+# Rime dictionary
+# encoding: utf-8
+# Luna Pinyin - 明月拼音
+
+---
+name: luna_pinyin.zonghe
+version: "2021.02.21"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+# 常见中英词汇
+哔哩哔哩	b l b l
+bilibili	b l b l
+哔哩哔哩	bilibili
+bilibili	bilibili
+DNA	d n a
+DVD	d v d
+iOS	ios
+iPad	ipad
+iPad Air	ipad
+iPad Pro	ipad
+iPhone	ip	103
+iPhone XS Max	ip
+iPhone XR	ip
+iPhone 12 Pro	ip
+ok	o k
+OK	o k
+Q幣	q bi
+QQ號	q q hao
+QQ號碼	q q haoma
+QQ會員	q q huiyuan
+QQ空間	q q kongjian
+QQ羣	q q qun
+QQ郵箱	q q youxiang
+T恤	t xu
+HK	h k	10001
+Hong Kong	h k	10000
+°	du	10000
+℃	she shi du
+℉	hua shi du
+♂	nan	10000
+♀	nv	10000
+↑	shang	10000
+↓	xia	10000
+→	you	10000
+↗	you shang	10000
+↘	you xia	10000
+←	zuo	10000
+↖	zuo shang	10000
+↙	zuo xia	10000
+★	xing	10000
+①	yi	10000
+②	er	10000
+③	san	10000
+④	si	10000
+⑤	wu	10000
+⑥	liu	10000
+⑦	qi	10000
+⑧	ba	10000
+⑨	jiu	10000
+⑩	shi	10000
